@@ -1,3 +1,4 @@
+# PR placeholder: ничего не меняем, просто для отображения изменений2
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
